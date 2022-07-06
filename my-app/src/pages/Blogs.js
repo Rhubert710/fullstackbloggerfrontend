@@ -1,12 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-
 import React, { useState } from 'react';
 
 
-const BlogsPage = (props) => 
+function BlogsPage (props)
 {
     return (
         <div className="blogs-page">
