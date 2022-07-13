@@ -1,0 +1,28 @@
+h2
+{
+    text-align: center;
+    margin-bottom: 2em;
+}
+#postPaage
+{
+    padding: 2em;
+}
+#postBody
+{
+    /* margin-right: auto;
+    margin-left: auto; */
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+input
+{
+    font-size: inherit;
+}
+
+button
+{
+
+}
