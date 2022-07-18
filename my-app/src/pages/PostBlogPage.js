@@ -74,7 +74,7 @@ const PostBlogPage = ({ blogSubmit }) => {
                     });
                     setResMssg(message);
                     if (success === true) {
-                    navigate("/");
+                    navigate("/blogs");
                     }
                 }}
                 
